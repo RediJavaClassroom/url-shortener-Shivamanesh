@@ -2,6 +2,7 @@ package com.redi.shortener.services;
 
 import com.redi.shortener.model.CreateGreetingRequest;
 import com.redi.shortener.model.Greeting;
+import java.util.Locale;
 import java.util.UUID;
 import org.springframework.stereotype.Service;
 
